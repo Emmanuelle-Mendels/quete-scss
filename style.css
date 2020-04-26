@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+    font-family: 'Quattrocento', serif;
+}
+
+.precious, .one-ring, .six-rings {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.precious{
+    height: 15px;
+}
+
+.orange {
+    width: 20px;
+    height: 20px;
+    border: solid #e47525 4px;
+    border-radius: 50%;
+    margin: 20px;
+    box-shadow: 1px 1px 2px #e47525;
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    border: solid #e2c822 10px;
+    border-radius: 50%;
+    margin: 100px;
+    box-shadow: 1px 1px 2px #e2c822;
+}
+
+.black1 {
+    width: 20px;
+    height: 20px;
+    border: solid #37484d 2px;
+    border-radius: 50%;
+    margin: -2px;
+    box-shadow: 1px 1px 2px #37484d;
+}
+
+.black2 {
+    width: 30px;
+    height: 30px;
+    border: solid #37484d 3px;
+    border-radius: 50%;
+    margin: -4px;
+    box-shadow: 1px 1px 2px #37484d;
+}
+
+.black3 {
+    width: 40px;
+    height: 40px;
+    border: solid #37484d 4px;
+    border-radius: 50%;
+    margin: -6px;
+    box-shadow: 1px 1px 2px #37484d;
+}
+
+.black4 {
+    width: 50px;
+    height: 50px;
+    border: solid #37484d 5px;
+    border-radius: 50%;
+    margin: -8px;
+    box-shadow: 1px 1px 2px #37484d;
+}
+
+.black5 {
+    width: 60px;
+    height: 60px;
+    border: solid #37484d 6px;
+    border-radius: 50%;
+    margin: -10px;
+    box-shadow: 1px 1px 2px #37484d;
+}
+
+.black6 {
+    width: 70px;
+    height: 70px;
+    border: solid #37484d 7px;
+    border-radius: 50%;
+    margin: -12px;
+    box-shadow: 1px 1px 2px #37484d;
+}
